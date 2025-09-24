@@ -12,6 +12,10 @@ Application for search movies from API TMDB.
 - Detail Movie (Trailer, Synopsis, Reviews, Cast)
 - ...(coming soon)
 
+## Video Showcase
+Click image for watch video
+[![Video Showcase](https://github.com/rickyricko302/cineverse/blob/main/screenshots/Detail%2001%20Screen.png)](https://drive.google.com/file/d/1j5YcsrtMJkPRlS7mEwnTEBaEmhkJePlO/view?usp=sharing)
+
 ## Screenshots
 | On Boarding |
 |:------:|
