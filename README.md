@@ -1,7 +1,7 @@
 
 # Cineverse
 
-Application for search movies from API TMDB.
+Flutter Application for search movies from API TMDB.
 
 ## Fitur
 
