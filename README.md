@@ -31,11 +31,11 @@ Click image for watch video
 
 | Search 01 |
 |:-------:|
-| ![Search 01](https://github.com/rickyricko302/cineverse/blob/main/screenshots/Search%20Screen.png) |
+| ![Search 01](https://github.com/rickyricko302/cineverse/blob/main/screenshots/Search%2001%20Screen.png) |
 
 | Search 02 |
 |:-------:|
-| ![Search 02](https://github.com/rickyricko302/cineverse/blob/main/screenshots/Search%2001%20Screen.png)|
+| ![Search 02](https://github.com/rickyricko302/cineverse/blob/main/screenshots/Search%20Screen.png) |
 
 | Detail 01 |
 |:-------:|
